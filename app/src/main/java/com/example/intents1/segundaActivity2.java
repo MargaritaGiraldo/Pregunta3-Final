@@ -1,4 +1,4 @@
-package com.example.intents1;
+package com.example.pregunta3;
 
 import androidx.appcompat.app.AppCompatActivity;
 
